@@ -240,7 +240,7 @@ def main():
             bird.draw(screen)
 
             font = pygame.font.Font(None, 36)
-            score_text = font.render(f"Score: {score}", True, (0, 0, 0))
+            score_text = font.render(f"{score}", True, (0, 0, 0))
             score_rect = score_text.get_rect(center=(W_WIDTH // 2, 30))
             screen.blit(score_text, score_rect)
 
