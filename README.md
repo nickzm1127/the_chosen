@@ -24,6 +24,9 @@ Etapa 3: Programação da movimentação do pássaro, geração aleatória de ob
 
 Obs.: A programação está em fase de ajustes, com o foco na melhoria das colisões e da exibição gráfica.
 
+#**Vídeos:**
+https://drive.google.com/drive/folders/1vEfgt8qerf74gNFhsq3RPrSgc6jI83I_?usp=drive_link
+
 # **GitHub dos participantes:**
 *Ingra:* @ingdump
 *Lara:* @Laragerker1425
